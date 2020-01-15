@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/poj1988.dir/main.cpp.o  -o poj1988 
