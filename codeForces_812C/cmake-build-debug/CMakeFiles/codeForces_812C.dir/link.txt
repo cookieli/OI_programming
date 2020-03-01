@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/codeForces_812C.dir/main.cpp.o  -o codeForces_812C 

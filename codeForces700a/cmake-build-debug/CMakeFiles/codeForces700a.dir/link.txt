@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/codeForces700a.dir/main.cpp.o  -o codeForces700a 

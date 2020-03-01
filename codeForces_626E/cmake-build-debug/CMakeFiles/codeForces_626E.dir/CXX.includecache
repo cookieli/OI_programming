@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lzx/CLionProjects/Context/codeForces_626E/main.cpp
+iostream
+-
+vector
+-
+limits
+-
+algorithm
+-
+

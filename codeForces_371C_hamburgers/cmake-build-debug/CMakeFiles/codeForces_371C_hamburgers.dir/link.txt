@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/codeForces_371C_hamburgers.dir/main.cpp.o  -o codeForces_371C_hamburgers 

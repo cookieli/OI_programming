@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cf_626E_other_sol.dir/main.cpp.o  -o cf_626E_other_sol 

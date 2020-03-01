@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/codeForces_590B.dir/main.cpp.o  -o codeForces_590B 

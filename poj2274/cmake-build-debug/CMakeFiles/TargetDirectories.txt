@@ -1,0 +1,3 @@
+/home/lzx/CLionProjects/Context/poj2274/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lzx/CLionProjects/Context/poj2274/cmake-build-debug/CMakeFiles/poj2274.dir
+/home/lzx/CLionProjects/Context/poj2274/cmake-build-debug/CMakeFiles/edit_cache.dir

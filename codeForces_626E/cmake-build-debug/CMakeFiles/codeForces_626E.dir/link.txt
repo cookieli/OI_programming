@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/codeForces_626E.dir/main.cpp.o  -o codeForces_626E 
